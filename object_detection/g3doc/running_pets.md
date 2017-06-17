@@ -1,7 +1,7 @@
-# Quick Start: Distributed Training on the Oxford-IIT Pets Dataset on Google Cloud
+# Quick Start: Distributed Training on the Oxford-IIIT Pets Dataset on Google Cloud
 
 This page is a walkthrough for training an object detector using the Tensorflow
-Object Detection API. In this tutorial, we'll be training on the Oxford-IIT Pets
+Object Detection API. In this tutorial, we'll be training on the Oxford-IIIT Pets
 dataset to build a system to detect various breeds of cats and dogs. The output
 of the detector will look like the following:
 
